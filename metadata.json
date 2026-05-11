@@ -1,0 +1,8 @@
+{
+  "name": "The Nawaabs",
+  "description": "A premium heritage restaurant website for The Nawaabs, featuring a legacy of 20 years in fine Indian dining. Includes online ordering, order history, and email confirmations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
